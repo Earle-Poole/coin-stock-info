@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/coin-stock-info/static/js/runtime~main.2752ea3d.js"
   },
   {
-    "revision": "87fd86312841ac84c732",
-    "url": "/coin-stock-info/static/js/main.87fd8631.chunk.js"
+    "revision": "bd81c779d39eaf9c4893",
+    "url": "/coin-stock-info/static/js/main.bd81c779.chunk.js"
   },
   {
     "revision": "a55c4992d1c0969a1992",
     "url": "/coin-stock-info/static/js/1.a55c4992.chunk.js"
   },
   {
-    "revision": "87fd86312841ac84c732",
+    "revision": "bd81c779d39eaf9c4893",
     "url": "/coin-stock-info/static/css/main.482d3a3a.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/coin-stock-info/static/css/1.351008ef.chunk.css"
   },
   {
-    "revision": "48abf1fd21333bcc21225f99e7dc71eb",
+    "revision": "eb1dbd12a751401dfb0597c5c3cdfc13",
     "url": "/coin-stock-info/index.html"
   }
 ];
